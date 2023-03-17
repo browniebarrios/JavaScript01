@@ -1,0 +1,14 @@
+Si: if
+Según: 
+switch () {
+ case <n>: <acciones>;
+   break;
+BREAK detiene la ejecución de un caso en los condicionales con switch
+Si omito el condicional BREAK, ejecuta el bloque de código hasta que terminan los condicionales o aparece un break
+De otro modo: 
+default
+<acciones>
+else if: sino si
+Se pueden concatenar expresiones condicionales
+Si se cumple una condicion: if <acciones>
+Si no si: else if <acciones>

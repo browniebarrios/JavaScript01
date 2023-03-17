@@ -1,0 +1,14 @@
+Cómo hacer para leer:
+Scanner <nombre> = new Scanner(System.in);
+<tipo_de_variable><var>;
+var=<nombre>.next();
+
+Para escribir:
+System.out.println(" ");
+Si queremos escribir sin saltos de líneas hacemos System.out.print(" ");
+
+Con Shift+F6 corremos el archivo específico
+Depurar/Debug: hacer el paso a paso
+Al runnear el programa podemos apretar en el número de linea que querramos y se detiene el porgrama.
+A esto se lo denomina break-point. Es decir, unpunto de interrupción.
+También podemos ver las variables con sus valores
